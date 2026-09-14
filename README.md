@@ -89,6 +89,9 @@ Webhook en **Google Apps Script** que recibe mensajes de WhatsApp (Meta Cloud AP
 ### TANKIO — Monitoreo de gas LP *(repositorio privado)*
 Migración a **Flutter/Dart** de un prototipo propio para monitoreo de nivel de gas LP.
 
+### [Sistema de Monitoreo Serial](https://github.com/LegnA12/sistema-monitoreo-serial)
+Aplicación de escritorio en **Python (PySide6)** para visualizar y registrar en tiempo real datos seriales (USB/COM) desde ESP32, Arduino, sensores industriales, PLCs o módulos GPS. Detecta automáticamente el formato de los datos (simple, CSV o JSON), grafica múltiples canales en paralelo, mantiene historial de sesión y se reconecta solo si el dispositivo se desconecta.
+
 <br/>
 
 ## 🤝 Contacto y colaboración
