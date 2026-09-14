@@ -83,6 +83,9 @@ _Ingeniero especializado en soluciones tecnológicas para los sectores agrícola
 ### [Código Máquina Selladora](https://github.com/LegnA12/Codigo_Maquina_Selladora)
 Firmware embebido en **C++** sobre **ESP32** que automatiza el ciclo completo de una máquina selladora industrial (sujeción por ventosas, sellado térmico por pistón, enfriamiento/expulsión), mediante una **máquina de estados finita no bloqueante** (sin `delay()`). Incluye doble confirmación de seguridad en el arranque, paro de emergencia y ajuste de tiempos en caliente vía potenciómetros.
 
+### TANKIO — Monitoreo de gas LP *(repositorio privado)*
+Migración a **Flutter/Dart** de un prototipo propio para monitoreo de nivel de gas LP.
+
 <br/>
 
 ## 🤝 Contacto y colaboración
