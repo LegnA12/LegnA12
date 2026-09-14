@@ -20,7 +20,7 @@ _Ingeniero especializado en soluciones tecnológicas para los sectores agrícola
 
 ## 👋 Acerca de mí
 
-- 🔭 Actualmente trabajo en **Ingeniería Cóndor** (México), en sistemas de IoT y visión.
+- 🔭 Actualmente trabajo en **Ingeniería Condor** (México), en sistemas de IoT y visión.
 - ⚙️ Domino **C/C++ para Arduino y ESP32** en el desarrollo de sistemas embebidos.
 - 🔌 Integro comunicaciones industriales con **RS-232**, **RS-485** y **Modbus** (sensores hacia microcontroladores y PLCs, incluyendo **Mitsubishi**).
 - 🐍 Programo en **Python** para automatización e integración de sistemas.
