@@ -70,9 +70,12 @@ _Ingeniero especializado en soluciones tecnológicas para los sectores agrícola
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=LegnA12&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegnA12&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegnA12&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Lenguajes más usados" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LegnA12&theme=dark&hide_border=true" alt="Racha de contribuciones" />
+<!-- Generado por .github/workflows/streak-stats.yml (self-hosted con GitHub
+     Actions), ya que el servicio publico de Heroku que usaba este widget
+     antes fue descontinuado y dejo de funcionar. -->
+<img src="https://raw.githubusercontent.com/LegnA12/LegnA12/master/profile/streak.svg" alt="Racha de contribuciones" />
 
 </div>
 
