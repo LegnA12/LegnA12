@@ -6,7 +6,7 @@
 
 ### Experto en IoT y Sistemas de Visión · México
 
-_Diseño soluciones de visión artificial y dispositivos conectados que transforman datos del mundo físico en decisiones automatizadas._
+_Ingeniero especializado en soluciones tecnológicas para los sectores agrícola e industrial, con más de 2 años de experiencia en IoT y Visión por Computadora._
 
 <br/>
 
