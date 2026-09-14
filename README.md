@@ -22,8 +22,9 @@ _Ingeniero especializado en soluciones tecnológicas para los sectores agrícola
 
 - 🔭 Actualmente trabajo en **Ingeniería Cóndor** (México), en sistemas de IoT y visión.
 - ⚙️ Domino **C/C++ para Arduino y ESP32** en el desarrollo de sistemas embebidos.
-- 🔌 Integro comunicaciones industriales con **RS-232** y **RS-485**.
-- 💻 Programo también en **JavaScript**, **Python** y **Ladder** para PLC.
+- 🔌 Integro comunicaciones industriales con **RS-232**, **RS-485** y **Modbus** (sensores hacia microcontroladores y PLCs, incluyendo **Mitsubishi**).
+- 🐍 Programo en **Python** para automatización e integración de sistemas.
+- 🌱 Actualmente aprendiendo **Ladder para PLC**, **JavaScript** y **Rust**.
 - 🤝 Abierto a colaborar en proyectos de automatización industrial, monitoreo remoto y visión por computadora.
 - 📫 Cómo contactarme: **angel25malfa@gmail.com** o por [LinkedIn](https://www.linkedin.com/in/angelmaldonadofuentesa3).
 
@@ -36,18 +37,24 @@ _Ingeniero especializado en soluciones tecnológicas para los sectores agrícola
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**🌱 Aprendiendo actualmente**
+
 ![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-PLC-555555?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 **Microcontroladores y hardware**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Mitsubishi PLC](https://img.shields.io/badge/Mitsubishi_PLC-D40000?style=flat-square)
 
 **Protocolos de comunicación**
 
 ![RS-232](https://img.shields.io/badge/RS--232-3A3A3A?style=flat-square)
 ![RS-485](https://img.shields.io/badge/RS--485-3A3A3A?style=flat-square)
+![Modbus](https://img.shields.io/badge/Modbus-3A3A3A?style=flat-square)
 
 <!-- No agregué bases de datos ni cloud: no confirmaste herramientas en esas categorías.
      Si usas alguna (ej. MySQL, AWS IoT Core, Azure IoT Hub), dime cuál y la agrego como badge real. -->
