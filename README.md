@@ -54,7 +54,11 @@ _Ingeniero especializado en soluciones tecnológicas para los sectores agrícola
 
 ![RS-232](https://img.shields.io/badge/RS--232-3A3A3A?style=flat-square)
 ![RS-485](https://img.shields.io/badge/RS--485-3A3A3A?style=flat-square)
-![Modbus](https://img.shields.io/badge/Modbus-3A3A3A?style=flat-square)
+<img src="https://raw.githubusercontent.com/LegnA12/LegnA12/master/assets/modbus-logo.png" height="20" alt="Modbus" />
+
+<!-- Modbus no tiene ícono en Simple Icons (la librería que usan los demás badges),
+     así que aquí se usa el logo oficial de modbus.org recortado a fondo transparente,
+     en vez de un badge de texto o un ícono genérico inventado. -->
 
 <!-- No agregué bases de datos ni cloud: no confirmaste herramientas en esas categorías.
      Si usas alguna (ej. MySQL, AWS IoT Core, Azure IoT Hub), dime cuál y la agrego como badge real. -->
