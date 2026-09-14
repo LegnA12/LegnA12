@@ -83,6 +83,9 @@ _Ingeniero especializado en soluciones tecnológicas para los sectores agrícola
 ### [Código Máquina Selladora](https://github.com/LegnA12/Codigo_Maquina_Selladora)
 Firmware embebido en **C++** sobre **ESP32** que automatiza el ciclo completo de una máquina selladora industrial (sujeción por ventosas, sellado térmico por pistón, enfriamiento/expulsión), mediante una **máquina de estados finita no bloqueante** (sin `delay()`). Incluye doble confirmación de seguridad en el arranque, paro de emergencia y ajuste de tiempos en caliente vía potenciómetros.
 
+### [Bot de Finanzas WhatsApp → Google Sheets](https://github.com/LegnA12/AppFinanzasWhatsApp)
+Webhook en **Google Apps Script** que recibe mensajes de WhatsApp (Meta Cloud API) y los registra automáticamente como ingreso o gasto en Google Sheets, interpretando comandos en lenguaje natural (`gasto 450 comida`, `ingreso 3000 semanal`, `lista`, `borrar 2`). Configuración basada en Propiedades del Script, sin credenciales en el código fuente.
+
 ### TANKIO — Monitoreo de gas LP *(repositorio privado)*
 Migración a **Flutter/Dart** de un prototipo propio para monitoreo de nivel de gas LP.
 
